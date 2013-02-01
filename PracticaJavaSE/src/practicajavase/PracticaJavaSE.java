@@ -2,7 +2,7 @@ package practicajavase;
 
 /**
  *
- * @author 66785379
+ * @author Carlos Gómez Muñoz
  */
 public class PracticaJavaSE {
 
